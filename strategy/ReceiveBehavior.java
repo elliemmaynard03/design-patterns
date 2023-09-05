@@ -1,6 +1,8 @@
+//Written by Ellie Maynard CSCE247
 package strategy;
 import java.util.Random;
 
+// using the offense interface to incorporate the play method to the types of runs a player can use
 public class ReceiveBehavior implements OffenseBehavior{
     public String play(){
         Random random = new Random();
