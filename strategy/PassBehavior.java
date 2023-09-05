@@ -1,4 +1,4 @@
-//Written by Ellie Maynard CSCE247
+//Written by Ellie Maynard CSCE 247
 package strategy;
 
 import java.util.Random;
